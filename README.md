@@ -4,14 +4,17 @@
 - **🔧 Power BI**: For interactive dashboards and visualizations.
 - **🗃️ SQL**: For data extraction and manipulation.
 
-## Repository
-Check out the project and access the files here: [Bank Loan Analysis Project](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project) 🚀
+---
 
 ## Project Objective
 The goal of this project is to **analyze bank loan data** to gain valuable insights into lending activities, identify key performance indicators (KPIs), and track loan performance. This analysis aids in making **data-driven decisions** and understanding the **financial health** of the bank's lending portfolio. 📈💡
 
+---
+
 ## Inspiration
 This project draws inspiration from the YouTube channel **Data Tutorials**, which provided a comprehensive guide on creating effective data dashboards. Leveraging their techniques, this project delivers a robust analysis solution. 🎓📹
+
+---
 
 ## Project Description
 This project involves the following steps:
@@ -56,6 +59,8 @@ This project involves the following steps:
 - **SQL PDF Documents**: SQL queries used in the project. 📄
 - **PowerPoint Presentation**: Project summary and findings. 🗒️
 
+---
+
 ## Check Out the More Project on GitHub
 [Repository](https://github.com/Bhushan148?tab=repositories) 🌟
 
@@ -70,12 +75,9 @@ Find the detailed project report PDF [here](https://github.com/Bhushan148/Bank-L
 
 ## 📊 Power BI Report Sample
 Explore a sample of the Power BI report created for this project:
-- **Dashboard 1: Summary** ![Dashboard 1](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project/blob/main/Other%20Resource/Dashboard1.png)
-- **Dashboard 2: Overview** ![Dashboard 2](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project/blob/main/Other%20Resource/Dashboard2.png)
-- **Dashboard 3: Details** ![Dashboard 3](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project/blob/main/Other%20Resource/Dashboard3.png)
-
-## Report PDF Here
-
+- **Dashboard 1: Summary** ![Dashboard 1](https://github.com/Bhushan148/Bank-Loan-Analysis/blob/main/Other%20Resources/Page%201.png)
+- **Dashboard 2: Overview** ![Dashboard 2](https://github.com/Bhushan148/Bank-Loan-Analysis/blob/main/Other%20Resources/Page%202.png)
+- **Dashboard 3: Details** ![Dashboard 3](https://github.com/Bhushan148/Bank-Loan-Analysis/blob/main/Other%20Resources/Page%203.png)
 
 ---
 
