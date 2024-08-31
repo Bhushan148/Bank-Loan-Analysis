@@ -56,14 +56,26 @@ This project involves the following steps:
 - **SQL PDF Documents**: SQL queries used in the project. 📄
 - **PowerPoint Presentation**: Project summary and findings. 🗒️
 
-## Check Out the Project on GitHub
-[Bank Loan Analysis Project](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project) 🌟
+## Check Out the More Project on GitHub
+[Repository](https://github.com/Bhushan148?tab=repositories) 🌟
 
 ## Dataset
-Download the dataset used in this project [here](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project/blob/main/Other%20Resource/Loan_Dataset.csv). 📥
+Download the dataset used in this project [here](https://github.com/Bhushan148/Bank-Loan-Analysis/blob/main/financial_loan.csv). 📥
 
 ## Query Document
-Find the SQL queries used in this project [here](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project/blob/main/SQL%20Queries.pdf). 📄
+Find the SQL queries used in this project [here](https://github.com/Bhushan148/Bank-Loan-Analysis/blob/main/Project%20SQL%20Queries.pdf). 📄
+
+## 📄 Report PDF Here
+Find the detailed project report PDF [here](https://github.com/Bhushan148/Bank-Loan-Analysis/blob/main/Finance%20Dashboard%20Project%20pdf.pdf).
+
+## 📊 Power BI Report Sample
+Explore a sample of the Power BI report created for this project:
+- **Dashboard 1: Summary** ![Dashboard 1](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project/blob/main/Other%20Resource/Dashboard1.png)
+- **Dashboard 2: Overview** ![Dashboard 2](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project/blob/main/Other%20Resource/Dashboard2.png)
+- **Dashboard 3: Details** ![Dashboard 3](https://github.com/YourGitHubUsername/Bank-Loan-Analysis-Project/blob/main/Other%20Resource/Dashboard3.png)
+
+## Report PDF Here
+
 
 ---
 
